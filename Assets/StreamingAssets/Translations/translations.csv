@@ -1,0 +1,53 @@
+# Menu labels
+#
+shop_label, Shop, Tienda
+building_menu_label, Build, Construir
+continue, Continue, Continuar
+play, Play, Jugar
+new_game, New Game, Empezar
+build_mode, Build mode, Construyendo edificio
+bulldoze_mode, Destroy mode, Destruir
+day, Day, Día
+language_selection_label, Pick a language , Escoge el idioma
+build_mode_hint, Tap to build, Toca para construir
+bulldoze_mode_hint, Tap to destroy building, Toca para destruir un edificio
+english_language, English, Ingles
+spanish_language, Spanish, Castellano
+main_menu, Main menu, Menu principal
+exit_game, Quit, Salir
+keep_playing, Keep playing, Seguir jugando
+level_selection_label, Level selection, Seleccion de nivel
+exit_prompt, Do you want to exit the game?, ¿Deseas salir del juego?
+new_game_prompt, Are you sure about starting a new game? All progress done in the current level will be lost. Continue?, ¿Estas seguro de que deseas empezar un nuevo juego? Todo el progreso que hayas hecho en el nivel actual se perdera. ¿Continuar?
+money_label, Gold:, Oro:
+start_label, Start, Empezar
+current_mission_label, Current Mission, Mision Actual
+progress_label, Progress:, Progreso:
+next_mission_label, Next Mission, Siguiente Mision
+in_progress_label, In Progress, En Progreso
+# Logs
+#
+day_passed_log, A day has passed, Ha pasado un dia
+villager_spawned_log, A new villager has come, Ha llegado un nuevo aldeano
+villager_sleepy_log, A villager is very sleepy, Un aldeano esta muy cansado
+villager_hungry_log, A villager is very hungry, Un aldeano tiene mucha hambre
+villager_angry_log, A villager is very angry, Un aldeano esta muy enfadado
+villager_leaving_log, A villager is leaving the island, Un aldeano va a abandonar la isla
+# Buildings
+#
+house, House, Casa
+warehouse, Warehouse, Almacén
+oven, Oven, Horno
+wheatfarm, Farm tile, Plantación de Trigo
+pen, Pen, Corral
+slaughterhouse, Slaughterhouse, Matadero
+tofufermenter, Tofu Fermenter, Fermentador de Tofu
+tofufarm, Tofu Farm, Plantación de Soja
+
+# Legacy
+#
+inventory_label, Inventory, Inventario
+cactus, Cactus, Cactus
+tree, Tree, Árbol
+forward10minutes, Forward time potion, Poción para adelantar el tiempo
+moneypotion, Money potion, Poción del dinero

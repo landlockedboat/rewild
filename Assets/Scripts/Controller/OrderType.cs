@@ -1,0 +1,21 @@
+﻿public enum OrderType
+{
+    Eat,
+    Sleep,
+    Roam,
+    Leave,
+    Null,
+    PlantWheat,
+    PickItem,
+    DropItem,
+    HarvestPlant,
+    BakeBreadFindWheat,
+    BakeBreadDropWheatInOven,
+    PlantTofu,
+    FermentTofuFindSoybean,
+    FermentTofuDropSoybeanInFermenter,
+    FeedPigFindWheat,
+    GrowPigDropWheatInPen,
+    MakeMeatFindPig,
+    MakeMeatDropPiggyInSlaughterhouse
+}

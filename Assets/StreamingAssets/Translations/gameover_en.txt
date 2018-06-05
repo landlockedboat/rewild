@@ -1,0 +1,17 @@
+﻿Too many villagers have left the Island.
+
+The remaining ones lost hope and do not want yourself as a leader anymore.
+
+
+
+
+
+Game Over
+
+
+
+You managed to keep the Island running for #DAYS Days.
+
+
+
+The island had #VILLAGERS Villagers at the time you lost it.

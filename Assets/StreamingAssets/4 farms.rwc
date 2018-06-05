@@ -1,0 +1,22 @@
+sleep 1
+
+spawn dock 5 -5
+
+spawn house -1 -5
+spawn house -1 -7
+spawn house -3 -7
+
+spawn farm 2 -5
+spawn farm 2 -4
+spawn farm 1 -5
+spawn farm 1 -4
+
+spawn oven -4 -3
+
+spawn villager
+spawn villager
+spawn villager
+
+spawn warehouse -1 -1
+
+ff 3

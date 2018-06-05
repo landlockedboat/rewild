@@ -1,0 +1,14 @@
+Demasiados aldeanos han dejado la isla.
+Los que quedan han perdido la esperanza y no te consideran su lider.
+
+
+
+
+
+Fin del Juego
+
+
+Has conseguido mantener la Isla a flote durante #DAYS dias.
+
+
+En la isla vivian #VILLAGERS aldeanos cuando la perdiste.

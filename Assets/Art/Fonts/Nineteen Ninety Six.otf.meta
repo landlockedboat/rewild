@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b2d1ee70bf4ff7d45a6ed99d0d08f69b
+timeCreated: 1524648249
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nineteen Ninety Six
+  fontNames:
+  - Nineteen Ninety Six
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

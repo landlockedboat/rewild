@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Navigable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 4235227893
+    locked: 0
+  - name: NatureBot
+    uniqueID: 2466042267
+    locked: 0
+  - name: NatureTop
+    uniqueID: 2411078723
+    locked: 0
+  - name: BuildingsBot
+    uniqueID: 2227405295
+    locked: 0
+  - name: Player
+    uniqueID: 4202282527
+    locked: 0
+  - name: BuildingsTop
+    uniqueID: 277798395
+    locked: 0
+  - name: UI
+    uniqueID: 4056684035
+    locked: 0

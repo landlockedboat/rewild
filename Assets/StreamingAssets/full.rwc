@@ -1,0 +1,11 @@
+sleep 0.01
+spawn dock 0 -5
+spawn tfa -3 -2
+spawn wf -4 -2
+spawn oven -2 -2
+spawn tfe -1 -2
+spawn warehouse -3 0
+spawn house -3 -5
+spawn pen -5 -5
+spawn slaughterhouse -7 -3
+spawn villager

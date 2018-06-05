@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 24e1596cfd9524848976614034880a06
+timeCreated: 1524648066
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Preschool Bits
+  fontNames:
+  - Preschool Bits
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5760072c4de1ea04f80751dbc09c113a, type: 3}
+  m_Name: Cactus
+  m_EditorClassIdentifier: 
+  Price: 100
+  DisplaySprite: {fileID: 21300024, guid: f16ca8179e02a09408b5b8b8ef6c6d7e, type: 3}
+  InventoryAmmount: 0
+  Position: {x: -0.5, y: 2.5}
+  MinutesToGrow: 0.4
+  GrowSprite: {fileID: 21300026, guid: f16ca8179e02a09408b5b8b8ef6c6d7e, type: 3}
+  GrowReward: 175

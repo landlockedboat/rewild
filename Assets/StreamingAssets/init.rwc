@@ -1,0 +1,6 @@
+sleep 0.01
+spawn dock 0 -5
+spawn warehouse -3 -3
+spawn villager
+add meat 10
+add bread 5
